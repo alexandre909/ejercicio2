@@ -1,0 +1,21 @@
+body {
+    heigh:100%;
+    background-image: url("pngwing.com.png");
+    background-size: 100%;
+    
+  }
+table {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+tr {
+    align-content: center;
+    align-content: center
+    var(center);
+}
+img {
+    align-content: stretch;
+}
